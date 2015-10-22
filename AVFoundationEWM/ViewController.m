@@ -86,7 +86,9 @@
 	if ([self.session canAddOutput:self.output]) {
 		[self.session addOutput:self.output];
 	}
-	self.output.metadataObjectTypes = @[AVMetadataObjectTypeQRCode];
+	//AVMetadataObjectTypeEAN13Code, AVMetadataObjectTypeEAN8Code, AVMetadataObjectTypeCode128Code
+	//可扫描二维码和条形码
+	self.output.metadataObjectTypes = @[AVMetadataObjectTypeQRCode,AVMetadataObjectTypeEAN13Code, AVMetadataObjectTypeEAN8Code, AVMetadataObjectTypeCode128Code];
 	self.preview = [AVCaptureVideoPreviewLayer layerWithSession:self.session];
 	self.preview.videoGravity = AVLayerVideoGravityResizeAspectFill;
 	self.preview.frame = self.view.bounds;

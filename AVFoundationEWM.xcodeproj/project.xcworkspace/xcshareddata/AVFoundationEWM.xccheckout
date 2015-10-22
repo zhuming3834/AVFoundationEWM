@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E55E472C-A605-48F5-91C0-C072A99F460B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AVFoundationEWM</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>59D55161FE45E4CB1EB34AA5B3F85A436457F46A</key>
+		<string>https://github.com/zhuming3834/AVFoundationEWM.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVFoundationEWM.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59D55161FE45E4CB1EB34AA5B3F85A436457F46A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhuming3834/AVFoundationEWM.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>59D55161FE45E4CB1EB34AA5B3F85A436457F46A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59D55161FE45E4CB1EB34AA5B3F85A436457F46A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVFoundationEWM</string>
+		</dict>
+	</array>
+</dict>
+</plist>
